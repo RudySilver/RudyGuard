@@ -6,7 +6,7 @@ Advanced, modular network monitor for Linux/Parrot OS.  Shows live TCP/UDP conne
 ## What is RudyGuard?
 
 **RudyGuard** is a blazing-fast, modular, and visually advanced network monitoring/security toolkit for Linux and Parrot OS.  
-Built from scratch by **Rudy Cooper (@RudySilver)**, this tool is for hackers, sysadmins, and anyone who wants deep insight into their network traffic—with style, colors, emojis, geo info, and more.
+Built from scratch by **Rudy Cooper (@RudySilver)**, this tool is for hackers, sysadmins, and anyone who wants deep insight into their network traffic with style, colors, emojis, geo info, and more.
 
 ---
 
