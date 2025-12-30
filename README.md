@@ -1,12 +1,12 @@
 # RudyGuard
-Advanced, modular network monitor for Linux/Parrot OS.  Shows live TCP/UDP connections, geolocation, ISP, traceroute, alerts, logging, and more—with a stylish, colorful UI.  Made by Rudy Cooper (@FrozenBarbie01).
+Advanced, modular network monitor for Linux/Parrot OS.  Shows live TCP/UDP connections, geolocation, ISP, traceroute, alerts, logging, and more with a stylish, colorful UI.  Made by Rudy Cooper (@RudySilver).
 
 # 🛡️ RudyGuard: Advanced Network Security Monitor 🚀
 
 ## What is RudyGuard?
 
 **RudyGuard** is a blazing-fast, modular, and visually advanced network monitoring/security toolkit for Linux and Parrot OS.  
-Built from scratch by **Rudy Cooper (@FrozenBarbie01)**, this tool is for hackers, sysadmins, and anyone who wants deep insight into their network traffic—with style, colors, emojis, geo info, and more.
+Built from scratch by **Rudy Cooper (@RudySilver)**, this tool is for hackers, sysadmins, and anyone who wants deep insight into their network traffic—with style, colors, emojis, geo info, and more.
 
 ---
 
@@ -24,12 +24,6 @@ Built from scratch by **Rudy Cooper (@FrozenBarbie01)**, this tool is for hacker
 - 🛡️ **Security Focused** (Ready for Parrot OS, root-friendly)
 - 🕒 **Timestamped Events**
 
----
-
-## Screenshots
-
-![RudyGuard Screenshot](images/rudysec1.cleaned.png)
-
 
 ---
 
@@ -37,7 +31,7 @@ Built from scratch by **Rudy Cooper (@FrozenBarbie01)**, this tool is for hacker
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/FrozenBarbie01/RudyGuard.git
+git clone https://github.com/RudySilver/RudyGuard
 cd RudyGuard
 ```
 
@@ -90,8 +84,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 ## Credits
 
-Made 100% by **Rudy Cooper (@FrozenBarbie01)**.  
-No Copilot, no generators—just pure skill and passion for security.
+Made 100% by **Rudy Cooper (@RudySilver)**.  
+
 
 ---
 
@@ -100,12 +94,6 @@ No Copilot, no generators—just pure skill and passion for security.
 MIT License.  
 See [LICENSE](LICENSE) for details.
 
----
-
-## Contact
-
-- Twitter: [@FrozenBarbie01](https://twitter.com/FrozenBarbie01)
-- Email: frozenbarbie01@protonmail.com
 
 ---
 
