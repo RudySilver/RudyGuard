@@ -148,7 +148,7 @@ def main():
     except KeyboardInterrupt:
         print(color_text("\n🛑 Monitoring stopped. Log saved at rudyg_log.json", "bg_magenta"))
         logger.save_logs()
-        print(color_text("👋 Thanks for using RudyGuard! | github.com/FrozenBarbie01", "cyan"))
+        print(color_text("👋 Thanks for using RudyGuard! | RudySilver", "cyan"))
         sys.exit(0)
 
 if __name__ == "__main__":
